@@ -10,6 +10,6 @@
 `docker build django/4 -t django-4:latest`
 `docker push ...`
 
-#### Application
+#### Demo Application
 
-`docker build . -t app:latest`
+`docker build demo -t demo:latest`
