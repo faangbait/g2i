@@ -1,0 +1,3 @@
+[submodule "python-311"]
+	path = python-311
+	url = https://github.com/sclorg/s2i-python-container
